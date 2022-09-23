@@ -14,9 +14,10 @@
 
     <?php
 
-        // - En este ejemplo, el valor de la variable contador no variará en cada llamada
-        // ya que cuando una funcion php termina el valor de sus variables locales SE DESTRUYE
-        // - Para realizar el incremento, en el siguiente ejemplo se declarará una variable ESTATICA
+    // - En este ejemplo, el valor de la variable contador no variará en cada llamada
+    //   ya que cuando una funcion php termina el valor de sus variables locales SE DESTRUYE
+    // - Para realizar el incremento, en el siguiente ejemplo se declarará una variable ESTATICA
+    
     //    function incrementaVariable() {
 
     //         $contador=0;
